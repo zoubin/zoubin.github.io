@@ -2,17 +2,17 @@
 
 ## When developing
 
-* <http://www.zoub.in/engineering>
-* <http://www.zoub.in/cookbook-for-anything>
+* <https://zoub.in/engineering>
+* <https://zoub.in/cookbook-for-anything>
 
 ## When reading
 
-* [春秋左传](http://www.zoub.in/chun-qiu-zuo-zhuan/)
-* [中国历代政治得失](http://www.zoub.in/zhong-guo-li-dai-zheng-zhi-de-shi/)
+* [春秋左传](https://zoub.in/chun-qiu-zuo-zhuan/)
+* [中国历代政治得失](https://zoub.in/zhong-guo-li-dai-zheng-zhi-de-shi/)
 
 ## Topics
-* [中国历法](http://www.zoub.in/chinese-calendar/)
+* [中国历法](https://zoub.in/chinese-calendar/)
 
 ## Fun
-* [Entertainment](http://www.zoub.in/entertainment/)
+* [Entertainment](https://zoub.in/entertainment/)
 
