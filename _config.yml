@@ -1,0 +1,10 @@
+theme: minima
+title: Reading Notes and Thoughts
+description: 记录阅读、旅行、阅读时的想法
+# 可选配置，Minima v3+支持多种皮肤
+minima:
+  skin: auto # 可选classic/dark/solarized-light等
+  show_excerpts: true # 首页显示文章摘要
+  date_format: "%Y-%m-%d" # 自定义日期格式
+plugins:
+  - jekyll-feed # 必备插件，适配主题功能
