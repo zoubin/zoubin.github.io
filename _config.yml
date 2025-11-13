@@ -1,10 +1,8 @@
-plugins:
-  - jekyll-feed # 必备插件，适配主题功能
-
+title: Reading Notes and Thoughts
 # Site-wide settings
 # ------------------
 #
-title: Reading Notes and Thoughts
+# title: Reading Notes and Thoughts
 #
 # author:
 #   name: GitHub User
