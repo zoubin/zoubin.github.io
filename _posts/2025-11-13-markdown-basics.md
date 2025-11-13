@@ -1,10 +1,11 @@
 ---
 layout: post  # 固定值，指定用Minima的文章模板
 title: "博客模板"  # 文章标题，可加引号
-date: 2025-11-13
+# date: 2025-11-13
 categories: Tech  # 文章分类（多个用空格分隔，例：技术 工具）
 tags: Github Markdown  # 文章标签（多个用空格分隔）
 excerpt: "文章模板，Markdown语法介绍"
+modified_date: 2025-11-14
 ---
 
 # Markdown基础语法全解析
@@ -92,7 +93,7 @@ Markdown是一种轻量级标记语言，用简洁的语法代替复杂的排版
 - 全局本地图片（建议放`assets/images`文件夹）：
   `![示例图片](/assets/images/icon-github.jpg "一张示例图")` ![示例图片](/assets/images/icon-github.jpg "一张示例图")
 - 文章本地图片：
-  `![示例图片](icon-wechat.jpg "一张示例图")` ![示例图片](icon-wechat.jpg "一张示例图")
+  `![示例图片](/assets/images/markdown-basics/icon-wechat.jpg "一张示例图")` ![示例图片](/assets/images/markdown-basics/icon-wechat.jpg "一张示例图")
 - 网络图片：
   `![网络图片](https://picsum.photos/200/150 "网络示例图")` → ![网络图片](https://picsum.photos/200/150 "网络示例图")
 
@@ -142,6 +143,7 @@ hello()
 ```
 
 效果：
+
 | 姓名 | 年龄 | 职业 |
 | :--- | :---: | ---: |
 | 张三 | 25 | 程序员 |
@@ -158,3 +160,5 @@ hello()
 
 效果：
 ---
+
+## The End
