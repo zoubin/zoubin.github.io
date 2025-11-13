@@ -2,7 +2,7 @@
 layout: post  # 固定值，指定用Minima的文章模板
 title: "博客模板"  # 文章标题，可加引号
 date: 2025-11-13
-categories: 技术  # 文章分类（多个用空格分隔，例：技术 工具）
+categories: Tech  # 文章分类（多个用空格分隔，例：技术 工具）
 tags: Github Markdown  # 文章标签（多个用空格分隔）
 excerpt: "文章模板，Markdown语法介绍"
 ---
